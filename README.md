@@ -21,7 +21,7 @@
 
 ## At a Glance
 
-> **2,554** production-ready Integrations APIs that connect the tools your stack already runs on.
+> **2,554** production-ready Integrations APIs.
 
 A focused, always-fresh index of Integrations APIs that connect the tools your stack already runs on. Every entry is rated, shows real user counts, and is refreshed daily — so you find the right one fast.
 
