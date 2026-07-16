@@ -7,7 +7,7 @@
 [![Stars](https://img.shields.io/github/stars/kawsarlog/integrations-apis?style=for-the-badge&color=8b5cf6)](https://github.com/kawsarlog/integrations-apis/stargazers)
 [![Forks](https://img.shields.io/github/forks/kawsarlog/integrations-apis?style=for-the-badge&color=ec4899)](https://github.com/kawsarlog/integrations-apis/network/members)
 [![Last commit](https://img.shields.io/github/last-commit/kawsarlog/integrations-apis?style=for-the-badge&color=a78bfa)](https://github.com/kawsarlog/integrations-apis/commits/main)
-[![APIs](https://img.shields.io/badge/APIs-2,554-fbbf24?style=for-the-badge)](#)
+[![APIs](https://img.shields.io/badge/APIs-2,555-fbbf24?style=for-the-badge)](#)
 
 <p>
   <a href="#at-a-glance"><b>At a Glance</b></a> &nbsp;•&nbsp;
@@ -21,15 +21,15 @@
 
 ## At a Glance
 
-> **2,554** production-ready Integrations APIs.
+> **2,555** production-ready Integrations APIs.
 
 A focused, always-fresh index of Integrations APIs that connect the tools your stack already runs on. Every entry is rated, shows real user counts, and is refreshed daily — so you find the right one fast.
 
 | Metric | Value |
 |--------|-------|
-| **Total APIs** | **2,554** |
+| **Total APIs** | **2,555** |
 | **Categories** | 1 |
-| **Last updated** | 2026-07-15 |
+| **Last updated** | 2026-07-16 |
 | **Update cadence** | Daily, automated |
 
 ## The Categories
@@ -38,7 +38,7 @@ A focused, always-fresh index of Integrations APIs that connect the tools your s
   <tr>
     <td width="100%" valign="top">
       <h3>Integrations</h3>
-      <p><strong>2,554 APIs</strong></p>
+      <p><strong>2,555 APIs</strong></p>
       <p>Connectors and glue that wire your SaaS tools and systems together.</p>
       <p><a href="./Integrations/"><strong>Open Integrations &rarr;</strong></a></p>
     </td>
@@ -55,7 +55,7 @@ A focused, always-fresh index of Integrations APIs that connect the tools your s
 ## Explore the Stack
 
 <details open>
-<summary><strong>Integrations — 2,554 APIs</strong></summary>
+<summary><strong>Integrations — 2,555 APIs</strong></summary>
 
 Connectors and glue that wire your SaaS tools and systems together.
 
@@ -95,7 +95,7 @@ Connectors and glue that wire your SaaS tools and systems together.
 
 <div align="center">
 
-**2,554 APIs** across **1 categories** — updated 2026-07-15
+**2,555 APIs** across **1 categories** — updated 2026-07-16
 <br /><sub>If this saved you time, a star helps others find it.</sub>
 
 </div>
